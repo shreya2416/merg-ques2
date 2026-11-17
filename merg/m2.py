@@ -1,5 +1,1 @@
-print("hii meghaaaa")
-<<<<<<< HEAD
-=======
-print("hiiii ")
->>>>>>> release
+print("hello")
